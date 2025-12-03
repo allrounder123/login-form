@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(136, 79, 89);
+}
+.content-box{
+display: flex;
+flex-direction: column;
+height: 50vh;
+justify-content: center;
+align-items: center;
+}
+#u{
+    display: block;
+    font-size: 30px;
+}
+#p{
+    display: block;
+    font-size: 30px;
+}
+button{
+    display: block;
+    font-size: 19px;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+
+//in this i learn how to center the heading input field and button perfectly
